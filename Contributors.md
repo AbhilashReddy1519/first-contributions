@@ -44,6 +44,7 @@
 - [Satish Kirpan](https://github.com/Satish1994)
 - [Sudarshan Dongre](https://github.com/SudWasatch)
 - [Alankar Jagtap](https://github.com/AlankarJagtap)
+- [Pramod Pandit](https://github.com/pramodpandit72)
 - [Arnav Saraswat](https://github.com/arnavs-uol)
 - [Varun Sonwane](https://github.com/varunsonawane) 
 - [Lohith Arcot](https://github.com/LohithArcot)
